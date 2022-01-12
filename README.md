@@ -26,7 +26,7 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 - :e-mail: How to reach me: katlynboches@gmail.com
 - :lotus_position_woman:  Hobbies: I enjoy hiking, slack-lining and yoga 
 
-Want to see my resume? [Click here!](https://drive.google.com/file/d/1g4xb6wjueWPvDEdE6GwCg4Dg6eZxRwu9/view?usp=sharing)
+Want to see my resume? [Click here!](https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit)
 
 ## Technology
 
