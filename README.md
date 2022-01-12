@@ -5,7 +5,7 @@
 
 ## Area: Boulder, CO, USA | Phone: 720-628-3887 | Email: @gmail.com
  
- <a href="" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
+ <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
  <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
  
