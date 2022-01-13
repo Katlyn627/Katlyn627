@@ -43,7 +43,7 @@ Want to see my resume? [Click here!](https://docs.google.com/document/d/13ygbQcv
 
 ## GitHub Stats
 
-[![Katlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlyn627&show_icons=true&theme=highcontrast)](https://github.com/Katlyn627/github-readme-stats)
+[![Katlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlyn627&show_icons=true&theme=synthwave)](https://github.com/Katlyn627/github-readme-stats)
 
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
