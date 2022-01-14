@@ -1,4 +1,4 @@
-<div align="center">
+
  
 # **Katlyn Boches**
 
@@ -17,11 +17,11 @@
 
  
 
-</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%239720F7&center=true&vCenter=true&lines=My+name+is+Katlyn+Boches%2C+I+am+a+Software+Engineer+studying+at+the+University+of+Denver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%239720F7&center=true&vCenter=true&lines=My+name+is+Katlyn+Boches!;I+am+a+coding+ninja;that+swifty+dispacts+bugs;and+develops+beautiful+code;Languages%3A+;HTML%2C+CSS%2C+JavaScript)](https://git.io/typing-svg)
 
-</div>
+
+
 
 ## :curly_haired_woman: About Me:
 I am a Colorado native and current student at the University of Denver enrolled in their full-stack coding boot-camp. In my free time I enjoy learning new skills such as American Sign Language and the development of video games, working on personal goals and helping my community. I enjoy hiking, camping and paddle-boarding. I enjoy spending time with family and friends playing board games like chess, and card games like cribbage and poker.
