@@ -5,17 +5,21 @@
 
 ## Area: Boulder, CO, USA | Phone: 720-628-3887 | Email: @gmail.com
  
- <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
+ <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="My Portfolio"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
  <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
  <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
- <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
+ <a href="https://github.com/Katlyn627" target="_blank" alt="GitHub"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
+
+ <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"></a>
+
+ 
  
 
  
 
 </div>
-<div align="center">
- <pre>Coding ninja that swiftly dispatches bugs and develops beautiful code.</pre>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%239720F7&center=true&vCenter=true&lines=My+name+is+Katlyn+Boches;I+am+a+Software+Engineer;studying+at+the+University+of+Denver)](https://git.io/typing-svg)
 </div>
 
 ## :curly_haired_woman: About Me:
@@ -28,7 +32,6 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 - :e-mail: How to reach me: katlynboches@gmail.com
 - :lotus_position_woman:  Hobbies: I enjoy hiking, slack-lining and yoga 
 
-Want to see my resume? [Resume](https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit)
 
 ## :electron: Technology
 
