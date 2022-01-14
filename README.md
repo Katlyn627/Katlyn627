@@ -5,7 +5,7 @@
 
 ## Area: Boulder, CO, USA | Phone: 720-628-3887 | Email: @gmail.com
  
- <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="Github Portfolio"><img src=https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000></a>
+ <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="Github Portfolio"><img src="https://img.shields.io/badge/-PORTFOLIO-181717?logo=GitHub"></a>
  <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>
  <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
  <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>
@@ -32,10 +32,10 @@ Want to see my resume? [Resume](https://docs.google.com/document/d/13ygbQcv5SL4h
 
 ## :electron: Technology
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katlyn627&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
+
 <details open>
  <summary>Languages:</summary>
-
-[![Katlyn's Most Used Languages](hhttps://github-readme-stats.vercel.app/api/top-langs/?username=Katlyn627&theme=blue-green)](https://github.com/Katlyn627/github-readme-stats)
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 </details>
