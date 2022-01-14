@@ -19,7 +19,8 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%239720F7&center=true&vCenter=true&lines=My+name+is+Katlyn+Boches;I+am+a+Software+Engineer;studying+at+the+University+of+Denver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%239720F7&center=true&vCenter=true&lines=My+name+is+Katlyn+Boches%2C+I+am+a+Software+Engineer+studying+at+the+University+of+Denver)](https://git.io/typing-svg)
+
 </div>
 
 ## :curly_haired_woman: About Me:
