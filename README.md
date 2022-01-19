@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
  
 # **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%230F951B&size=31&center=true&width=450&height=70&lines=Hello...my+name+is+Katlyn+Boches!;A+full+stack+developer%2C+and+coding+ninja;that+swiftly+dispatches+bugs+;and+develops+beautiful+code)](https://git.io/typing-svg)**
 
@@ -14,7 +14,7 @@
 
 <div>
 
-<p align="start">
+<div align="left">
 
 ## :curly_haired_woman: About Me:
 
@@ -28,7 +28,7 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 - :thinking: I’m currently learning React and Computer Science
 - :e-mail: How to reach me: katlynboches@gmail.com
 - :lotus_position_woman:  Hobbies: I enjoy hiking, slack-lining and yoga
-</p>
+</div>
 
 
 
