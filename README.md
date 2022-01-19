@@ -5,7 +5,7 @@
 
 ## Area: Boulder, CO, USA | Phone: 720-628-3887 | Email: @gmail.com
  
- <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="My Portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-Here-1abc9c.svg"></a>    <a><img src="https://komarev.com/ghpvc/?username=Katlyn627"/></a>    <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>    <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=:email:"></a>    <a href="https://github.com/Katlyn627" target="_blank" alt="GitHub"><img src="https://img.shields.io/badge/-GITHUB-181717?logo=GitHub"></a>    <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/Resume-Hire%20Me-1abc9c.svg"></a>
+ <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="My Portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-Here-1abc9c.svg"></a>    <a><img src="https://komarev.com/ghpvc/?username=Katlyn627"/></a>    <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a>    <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a>    <a href="https://github.com/Katlyn627" target="_blank" alt="GitHub"><img src="https://img.shields.io/badge/-GITHUB-181717?logo=GitHub"></a>    <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/Resume-Hire%20Me-1abc9c.svg"></a>
  
 
 
@@ -49,7 +49,7 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 
-## GitHub Stats
+## :ballot_box_with_check: GitHub Stats
 
 [![Katlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlyn627&show_icons=true&theme=tokyonight)](https://github.com/Katlyn627/github-readme-stats)
 
