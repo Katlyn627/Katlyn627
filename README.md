@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
  
 # **[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%230F951B&size=31&center=true&width=450&height=70&lines=Hello...my+name+is+Katlyn+Boches!;A+full+stack+developer%2C+and+coding+ninja;that+swiftly+dispatches+bugs+;and+develops+beautiful+code)](https://git.io/typing-svg)**
 
