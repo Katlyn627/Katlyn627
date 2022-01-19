@@ -51,7 +51,7 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 
 ## GitHub Stats
 
-[![Katlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlyn627&show_icons=true&theme=synthwave)](https://github.com/Katlyn627/github-readme-stats)
+[![Katlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlyn627&show_icons=true&theme=tokyonight)](https://github.com/Katlyn627/github-readme-stats)
 
 
-<!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- dark, radical, merko, gruvbox, , onedark, cobalt, synthwave, highcontrast, dracula -->
