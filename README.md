@@ -9,7 +9,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%239720F7&center=true&vCenter=true&lines=My+name+is+Katlyn+Boches!;I+am+a+coding+ninja;that+swifty+dispatches+bugs;and+develops+beautiful+code;Languages%3A+;HTML%2C+CSS%2C+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%230F951B&size=31&center=true&multiline=true&lines=Hello...my+name+is+Katlyn+Boches;I+am+a+full+stack+web+developer+;and+coding+ninja;that+swiftly+dispatches+bugs+;and+develops+beautiful+code.)](https://git.io/typing-svg)](https://git.io/typing-svg)
 
 </div>
 
