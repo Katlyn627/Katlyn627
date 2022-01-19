@@ -14,7 +14,7 @@
 
 <div>
 
-<p align="center">
+<p align="start">
 
 ## :curly_haired_woman: About Me:
 
