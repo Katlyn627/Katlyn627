@@ -12,6 +12,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<div>
+
 ## :curly_haired_woman: About Me:
 I am a Colorado native and current student at the University of Denver enrolled in their full-stack coding boot-camp. In my free time I enjoy learning new skills such as American Sign Language and the development of video games, working on personal goals and helping my community. I enjoy hiking, camping and paddle-boarding. I enjoy spending time with family and friends playing board games like chess, and card games like cribbage and poker.
 
