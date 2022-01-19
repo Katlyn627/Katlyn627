@@ -5,13 +5,14 @@
 
 ## Area: Boulder, CO, USA | Phone: 720-628-3887 | Email: @gmail.com
  
- <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="My Portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-Here-1abc9c.svg"></a> <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a> <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a> <a href="https://github.com/Katlyn627" target="_blank" alt="GitHub"><img src="https://img.shields.io/badge/-GITHUB-181717?logo=GitHub"></a> <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/Resume-Hire%20Me-1abc9c.svg"></a>
+ <a href="https://katlyn627.github.io/My-Portfolio/" target="_blank" alt="My Portfolio"><img src="https://img.shields.io/badge/My%20Portfolio-Here-1abc9c.svg"></a> <a href="https://www.linkedin.com/in/katlyn-boches-20110732/" target="_blank" alt="LinkedIn"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?logo=LinkedIn"></a> <a href="mailto:katlynboches@gmail.com" target="_blank" alt="Gmail"><img src="https://img.shields.io/badge/-GMAIL-EA4335?logo=Gmail"></a> <a href="https://github.com/Katlyn627" target="_blank" alt="GitHub"><img src="https://img.shields.io/badge/-GITHUB-181717?logo=GitHub"></a> <a href="https://docs.google.com/document/d/13ygbQcv5SL4h9NxDM9orSG58AbcoeopaelRb3ivmf88/edit" target="_blank" alt="Resume"><img src="https://img.shields.io/badge/Resume-Hire%20Me-1abc9c.svg"></a><a><img src="https://komarev.com/ghpvc/?username=Katlyn627"/></a>
  
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&color=%230F951B&size=31&center=true&width=450&height=70&lines=Hello...my+name+is+Katlyn+Boches!;A+full+stack+developer%2C+and+coding+ninja;that+swiftly+dispatches+bugs+;and+develops+beautiful+code)](https://git.io/typing-svg)
 </div>
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## :curly_haired_woman: About Me:
 I am a Colorado native and current student at the University of Denver enrolled in their full-stack coding boot-camp. In my free time I enjoy learning new skills such as American Sign Language and the development of video games, working on personal goals and helping my community. I enjoy hiking, camping and paddle-boarding. I enjoy spending time with family and friends playing board games like chess, and card games like cribbage and poker.
