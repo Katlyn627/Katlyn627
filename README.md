@@ -32,9 +32,9 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 
 
 
+<div align="left">
 
-
-## :electron: Technology
+## :electron: Technology:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Katlyn627&layout=compact&theme=onedark&langs_count=6&hide_border=true&hide=jupyter%20notebook,vim%20script,shell,roff,css,scheme,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&custom_title=Summary" alt="GitHub readme stats" width=405px>
 
@@ -49,7 +49,9 @@ After graduating from culinary school with a Bachelor's of Science in Food Servi
 
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![Materialize CSS](https://img.shields.io/badge/-materialize--css-ff69b4?style=for-the-badge&logo=materialize--css&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) 
 
-## :ballot_box_with_check: GitHub Stats
+<div align="left">
+
+## :ballot_box_with_check: GitHub Stats:
 
 [![Katlyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlyn627&show_icons=true&theme=tokyonight)](https://github.com/Katlyn627/github-readme-stats)
 
